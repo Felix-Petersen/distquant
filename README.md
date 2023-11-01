@@ -58,6 +58,7 @@ Supported options for `dist`:
 @article{petersen2023distributional,
   title={{Distributional Quantization}},
   author={Petersen, Felix and Sutter, Tobias},
+  url={https://github.com/Felix-Petersen/distquant},
   year={2021--2023}
 }
 ```
