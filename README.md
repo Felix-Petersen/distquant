@@ -1,6 +1,6 @@
 # Distributional Quantization
 
-![distquant_logo](images/distquant_logo.png)
+![distquant_logo](https://github.com/Felix-Petersen/distquant/blob/main/images/distquant_logo.png?raw=true)
 
 **Distributional quantization provides an information theoretically optimal and efficient quantization of data following a distributional prior.**
 
